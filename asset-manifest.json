@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.813ebf67.css",
-  "main.css.map": "static/css/main.813ebf67.css.map",
-  "main.js": "static/js/main.076a188f.js",
-  "main.js.map": "static/js/main.076a188f.js.map",
-  "static\\media\\background-dashboard.png": "static/media/background-dashboard.49f31817.png",
-  "static\\media\\empty-note.png": "static/media/empty-note.4547c151.png"
+  "main.css": "my-Sticky-Note-Dashboard/static/css/main.813ebf67.css",
+  "main.css.map": "my-Sticky-Note-Dashboard/static/css/main.813ebf67.css.map",
+  "main.js": "my-Sticky-Note-Dashboard/static/js/main.076a188f.js",
+  "main.js.map": "my-Sticky-Note-Dashboard/static/js/main.076a188f.js.map",
+  "my-Sticky-Note-Dashboard\\static\\media\\background-dashboard.png": "my-Sticky-Note-Dashboard/static/media/background-dashboard.49f31817.png",
+  "my-Sticky-Note-Dashboard\\static\\media\\empty-note.png": "my-Sticky-Note-Dashboard/static/media/empty-note.4547c151.png"
 }
